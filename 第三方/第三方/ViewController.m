@@ -24,6 +24,9 @@
      NSLog(@"👏👏👏👏那个👏");
      NSLog(@"👏👏👏👏那个👏");
      NSLog(@"👏👏👏👏那个👏");
+    
+    
+    NSLog(@"😄😄💗😄😄😄爱好哈奥😄💗😄😄😄💗😄");
 }
 
 - (void)didReceiveMemoryWarning {
