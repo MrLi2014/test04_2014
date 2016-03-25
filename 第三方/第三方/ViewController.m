@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"👏👏👏👏那个👏");
+    
+    NSLog(@"天苍苍野茫茫");
 }
 
 - (void)didReceiveMemoryWarning {
