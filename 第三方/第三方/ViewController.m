@@ -20,7 +20,7 @@
     
      NSLog(@"👏👏👏👏那个👏");
      NSLog(@"👏👏👏👏那个👏");
-<<<<<<< HEAD
+
     
      NSLog(@"👏👏👏👏那个👏");
      NSLog(@"👏👏👏👏那个👏");
@@ -28,9 +28,9 @@
     
     
     NSLog(@"😄😄💗😄😄😄爱好哈奥😄💗😄😄😄💗😄");
-=======
+
      NSLog(@"👏👏👏👏那个👏");
->>>>>>> text1
+
 }
 
 - (void)didReceiveMemoryWarning {
