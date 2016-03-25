@@ -16,10 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"👏👏👏👏那个👏");
+
     
-<<<<<<< HEAD
-     NSLog(@"👏👏👏👏那个👏");
+    
+    
      NSLog(@"👏👏👏👏那个👏");
 
     
@@ -32,9 +32,7 @@
 
      NSLog(@"👏👏👏👏那个👏");
 
-=======
     NSLog(@"天苍苍野茫茫");
->>>>>>> text2
 }
 
 - (void)didReceiveMemoryWarning {
